@@ -1,0 +1,5 @@
+---
+description: "Keynote: Jens-Max Hopf (Otto-von-Guericke-Universität Magdeburg)"
+time: 15:45-16:45
+layout: default
+---

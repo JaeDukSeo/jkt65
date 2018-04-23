@@ -1,0 +1,5 @@
+---
+description: "Keynote: Demetri Terzopoulos (UCLA)"
+time: 09:40-10:40
+layout: default
+---

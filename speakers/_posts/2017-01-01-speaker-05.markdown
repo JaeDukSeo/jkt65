@@ -1,0 +1,5 @@
+---
+description: "Kosta Derpanis (Ryerson University), Sven Dickinson (University of Toronto)"
+time: 11:00-12:00
+layout: default
+---
