@@ -1,8 +1,8 @@
 title: JKT65
 description: > # this means to ignore newlines until "baseurl:"
   A celebration of Prof. John K. Tsotsos' 65th.
-baseurl: "/jkt65" # the subpath of your site, e.g. /blog
-url: "ryersonvisionlab.github.io" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "www.jkt65.com" # the base hostname & protocol for your site
 # Build settings
 markdown: kramdown
 
