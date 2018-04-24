@@ -1,5 +1,5 @@
 ---
-description: "John Tsotsos"
+description: "<a href='http://www.cse.yorku.ca/~tsotsos/Tsotsos/Home.html'>John Tsotsos</a>"
 time: 17:45-18:15
 layout: default
 ---

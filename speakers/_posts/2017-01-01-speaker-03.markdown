@@ -1,5 +1,5 @@
 ---
-description: "Keynote: Demetri Terzopoulos (UCLA)"
+description: "Keynote: <a href='http://web.cs.ucla.edu/~dt/'>Demetri Terzopoulos</a> (UCLA)"
 time: 09:40-10:40
 layout: default
 ---

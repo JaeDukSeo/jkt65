@@ -1,5 +1,5 @@
 ---
-description: "Keynote: Henrick Christensen (UC San Diego)"
+description: "Keynote: <a href='http://www.hichristensen.net'>Henrik I. Christensen</a> (UC San Diego)"
 time: 13:30-14:30
 layout: default
 ---

@@ -1,5 +1,5 @@
 ---
-description: "Michael Jenkin (York University), Gregory Dudek (McGill University)"
+description: "<a href='https://vgrserver.eecs.yorku.ca/~jenkin/'>Michael Jenkin</a> (York University), <a href='http://www.cim.mcgill.ca/~dudek/'>Gregory Dudek</a> (McGill University)"
 time: 14:45-15:45
 layout: default
 ---

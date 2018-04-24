@@ -1,5 +1,5 @@
 ---
-description: "Keynote: Jens-Max Hopf (Otto-von-Guericke-Universität Magdeburg)"
+description: "Keynote: <a href='http://gp.cbbs.eu/portfoliopro/hopf-jens-max/'>Jens-Max Hopf</a> (Otto-von-Guericke-Universität Magdeburg)"
 time: 15:45-16:45
 layout: default
 ---
