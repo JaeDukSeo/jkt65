@@ -1,5 +1,5 @@
 ---
-description: "<a href='http://scs.ryerson.ca/~kosta/'>Kosta Derpanis</a> (Ryerson University), <a href='http://www.cs.toronto.edu/~sven/'>Sven Dickinson</a> (University of Toronto)"
+description: "<a href='http://www.schulich.uwo.ca/physpharm/people/bios/faculty/martinez_trujillo_julio.html'>Julio Martinez-Trujillo</a> (Western University), <a href='http://www.cs.toronto.edu/~sven/'>Sven Dickinson</a> (University of Toronto)"
 time: 11:00-12:00
 layout: default
 ---

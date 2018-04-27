@@ -352,6 +352,16 @@ fieldset[disabled] .btn-xl.active {
   font-size: 20px;
 }
 
+#location p {
+  font-size: 20px;
+  margin-bottom: 45px;
+}
+
+#location li {
+  font-size: 20px;
+  /* margin-bottom: 45px; */
+}
+
 header {
     height: 100vh;
     text-align: center;

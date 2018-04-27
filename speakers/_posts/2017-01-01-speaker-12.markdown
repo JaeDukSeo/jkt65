@@ -1,5 +1,5 @@
 ---
-description: "<a href='http://www.schulich.uwo.ca/physpharm/people/bios/faculty/martinez_trujillo_julio.html'>Julio Martinez-Trujillo</a> (Western University), <a href='http://www.cs.umanitoba.ca/~bruce/'>Neil Bruce</a> (Ryerson University)"
+description: "<a href='http://scs.ryerson.ca/~kosta/'>Kosta Derpanis</a> (Ryerson University), <a href='http://www.cs.umanitoba.ca/~bruce/'>Neil Bruce</a> (Ryerson University)"
 time: 16:45-17:45
 layout: default
 ---
