@@ -10,10 +10,27 @@
         <ul class="list-speakers">
           <hr>
           {% for post in site.categories.speakers reversed %}
+            {% if post.speakers %}
+              <a href="#{{ post.name }}" class="speakers-link" data-toggle="modal">
+            {% endif %}
             <li class="list-speakers-item row">
               <div class="col-md-2">{{ post.time }}</div>
-              <div class="col-md-8">{{ post.description }}</div>
+              <div class="col-md-8">
+                {{ post.description }}
+                {% for speaker in post.speakers %}
+                  {{ speaker.name }}
+                  {% if speaker.affiliation %}
+                    ({{ speaker.affiliation }})
+                  {% endif %}
+                  {% if forloop.last == false %}
+                    <br>
+                  {% endif %}
+                {% endfor %}
+              </div>
             </li>
+            {% if post.speakers %}
+              </a>
+            {% endif %}
             <hr>
           {% endfor %}
         </ul>

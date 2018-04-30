@@ -1,5 +1,7 @@
 ---
+name: event-14
 description: "Group picture"
+speakers:
 time: 18:15-18:30
 layout: default
 ---

@@ -1,5 +1,7 @@
 ---
+name: event-04
 description: "Coffee break"
+speakers:
 time: 10:40-11:00
 layout: default
 ---

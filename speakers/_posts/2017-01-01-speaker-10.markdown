@@ -1,5 +1,17 @@
 ---
-description: "<a href='https://vgrserver.eecs.yorku.ca/~jenkin/'>Michael Jenkin</a> (York University), <a href='http://www.cim.mcgill.ca/~dudek/'>Gregory Dudek</a> (McGill University)"
+name: event-10
+description:
+speakers:
+  - name: "Michael Jenkin"
+    affiliation: "York University"
+    webpage: "https://vgrserver.eecs.yorku.ca/~jenkin/"
+    title:
+    abstract:
+  - name: "Gregory Dudek"
+    affiliation: "McGill University"
+    webpage: "http://www.cim.mcgill.ca/~dudek/"
+    title:
+    abstract:
 time: 14:45-15:45
 layout: default
 ---

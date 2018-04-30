@@ -1,5 +1,7 @@
 ---
+name: event-15
 description: "Reception"
+speakers:
 time: 18:30-20:00
 layout: default
 ---

@@ -1,5 +1,7 @@
 ---
+name: event-06
 description: "Lunch break"
+speakers:
 time: 12:00-13:15
 layout: default
 ---

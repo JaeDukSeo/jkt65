@@ -9,18 +9,23 @@
                 </div>
             </div>
             <div class="container">
+                {% for speaker in post.speakers %}
                 <div class="row">
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
-                            <h2>{{ post.title }}</h2>
+                            <a href="{{ speaker.webpage }}"><h2>{{ speaker.name }}</h2></a>
                             <hr class="star-primary">
-                            <img src="{{site.baseurl}}/css/img/speaker/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
-                            <h3>Topic: {{ post.topic }}</h3>
-                            <p>{{ post.description }}</p>
-                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                            {% if speaker.title && speaker.abstract %}
+                              <h3>{{ speaker.title }}</h3>
+                              <p>{{ speaker.abstract }}</p>
+                            {% else %}
+                              <h3>TBA</h3>
+                            {% endif %}
+                            <!-- <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button> -->
                         </div>
                     </div>
                 </div>
+                {% endfor %}
             </div>
         </div>
     </div>

@@ -1,5 +1,7 @@
 ---
+name: event-16
 description: "Banquet"
+speakers:
 time: 20:30-22:30
 layout: default
 ---

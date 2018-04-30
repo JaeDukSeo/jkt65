@@ -1,5 +1,17 @@
 ---
-description: "<a href='http://scs.ryerson.ca/~kosta/'>Kosta Derpanis</a> (Ryerson University), <a href='http://www.cs.umanitoba.ca/~bruce/'>Neil Bruce</a> (Ryerson University)"
+name: event-12
+description:
+speakers:
+  - name: "Kosta Derpanis"
+    affiliation: "Ryerson University"
+    webpage: "http://scs.ryerson.ca/~kosta/"
+    title:
+    abstract:
+  - name: "Neil Bruce"
+    affiliation: "Ryerson University"
+    webpage: "http://www.cs.umanitoba.ca/~bruce/"
+    title:
+    abstract:
 time: 16:45-17:45
 layout: default
 ---

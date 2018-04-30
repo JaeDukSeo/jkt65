@@ -1,5 +1,17 @@
 ---
-description: "<a href='http://www.schulich.uwo.ca/physpharm/people/bios/faculty/martinez_trujillo_julio.html'>Julio Martinez-Trujillo</a> (Western University), <a href='http://www.cs.toronto.edu/~sven/'>Sven Dickinson</a> (University of Toronto)"
+name: event-05
+description:
+speakers:
+  - name: "Julio Martinez-Trujillo"
+    affiliation: "Western University"
+    webpage: "http://www.schulich.uwo.ca/physpharm/people/bios/faculty/martinez_trujillo_julio.html"
+    title:
+    abstract:
+  - name: "Sven Dickinson"
+    affiliation: "University of Toronto"
+    webpage: "http://www.cs.toronto.edu/~sven/"
+    title:
+    abstract:
 time: 11:00-12:00
 layout: default
 ---

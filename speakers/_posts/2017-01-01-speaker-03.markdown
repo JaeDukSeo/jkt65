@@ -1,5 +1,12 @@
 ---
-description: "Keynote: <a href='http://web.cs.ucla.edu/~dt/'>Demetri Terzopoulos</a> (UCLA)"
+name: event-03
+description: "Keynote:"
+speakers:
+  - name: "Demetri Terzopoulos"
+    affiliation: "UCLA"
+    webpage: "http://web.cs.ucla.edu/~dt/"
+    title:
+    abstract:
 time: 09:40-10:40
 layout: default
 ---

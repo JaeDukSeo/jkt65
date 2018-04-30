@@ -1,5 +1,12 @@
 ---
-description: "Keynote: <a href='http://gp.cbbs.eu/portfoliopro/hopf-jens-max/'>Jens-Max Hopf</a> (Otto-von-Guericke-Universität Magdeburg)"
+name: event-11
+description: "Keynote:"
+speakers:
+  - name: "Jens-Max Hopf"
+    affiliation: "Otto-von-Guericke-Universität Magdeburg"
+    webpage: "http://gp.cbbs.eu/portfoliopro/hopf-jens-max/"
+    title: "Tuning visual selection in space and time: Insights from neuromagnetic brain recordings"
+    abstract: "Models of visual attention are abundant, all aiming to account for the selection of relevant input from the overwhelming flood of incoming information at any moment. Only a few models, however, offer details about cortical implementation, e.g., how the cortical processing hierarchy constrains selection. Importantly, most models neglect the problem of spatio-temporal tractability, i.e., whether the proposed model can solve coding problems at a realistic spatio-temporal scale. I will review experimental work, spanning more than a decade, inspired by, and contributing to a model that offers such realistic implementation of attentional selection in visual cortex – the  Selective Tuning Model (STM) of John Tsotsos. From electromagnetic brain recordings in human observers, we will learn that central predictions of the STM are confirmed, which include the existence of a complex center-surround profile of the spatial focus of attention, and that selectivity is essentially a consequence of selection in a reverse hierarchical direction in visual cortex. More recent work will show that reverse-hierarchical selection as proposed by STM also accounts for feature-based attention in human visual cortex. The reviewed work overall emphasizes the importance of understanding attentional focussing from the perspective of architecture-bound constraints on hierarchical selection in visual cortex."
 time: 15:45-16:45
 layout: default
 ---
