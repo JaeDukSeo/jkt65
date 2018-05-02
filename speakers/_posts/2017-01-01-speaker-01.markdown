@@ -1,6 +1,6 @@
 ---
 name: event-01
-description: Registration & Breakfast
+description: Registration
 time: 09:00-09:30
 layout: default
 ---
