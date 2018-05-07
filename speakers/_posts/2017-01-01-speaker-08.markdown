@@ -5,8 +5,17 @@ speakers:
   - name: "Henrik I. Christensen"
     affiliation: "UC San Diego"
     webpage: "http://www.hichristensen.net"
-    title:
-    abstract:
+    title: "Are we ready for naive vision systems?"
+    abstract: "There is a lot of hype about using data driven vision systems for anything from
+autonomous driving to surgery. Deploying vision systems in the real-world is a
+major challenge. The average grocery store has 45,000 different items for sale.
+IKEA has 228 product categories on their website. They sell 12,000 different
+products and most of them are composed of 10+ items so the product inventory is in
+excess of 100,000 items. Building intelligent systems that interaction intelligently
+with so many different objects poses a challenge. We will discuss some of the lessons
+from Tsotsos’ complexity level analysis and what it tell us about the design of
+robot systems. We will use examples from manufacturing, autonomous driving and
+home assistants to illustrate impact across areas."
 time: 13:30-14:30
 layout: default
 ---
