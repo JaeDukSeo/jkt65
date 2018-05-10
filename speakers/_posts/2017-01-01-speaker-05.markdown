@@ -10,8 +10,10 @@ speakers:
   - name: "Sven Dickinson"
     affiliation: "University of Toronto"
     webpage: "http://www.cs.toronto.edu/~sven/"
-    title:
-    abstract:
+    title: "The Perceptual Advantage of Symmetry for Scene Perception"
+    abstract: "Human observers can classify photographs of real-world scenes after only a very brief exposure to the image. Line drawings of natural scenes have been shown to capture essential structural information required for successful scene categorization. Here, we investigate how the spatial relationships between lines and line segments in the line drawings affect scene classification. In one experiment, we tested the effect of removing either the junctions or the middle segments between junctions. Surprisingly, participants performed better when shown the middle segments than when shown the junctions. It appeared as if the images with middle segments tended to maintain the most parallel/locally symmetric portions of the contours. In order to test this hypothesis, in a second experiment, we either removed the most symmetric half of the contour pixels or the least symmetric half of the contour pixels using a novel method of measuring the local symmetry of each contour pixel in the image. Participants were much better at categorizing images containing the most symmetric contour pixels than the least symmetric.  Thus, results from both experiments demonstrate that local contour symmetry is a crucial organizing principle in complex real-world scenes.
+
+Joint work w/ John Wilder (UofT CS, Psych), Morteza Rezanejad (McGill CS), Kaleem Siddiqi (McGill CS), Allan Jepson (UofT CS), and Dirk Bernhardt-Walther (UofT Psych), VSS 2017."
 time: 11:00-12:00
 layout: default
 ---
