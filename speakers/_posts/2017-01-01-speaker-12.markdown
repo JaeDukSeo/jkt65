@@ -5,8 +5,8 @@ speakers:
   - name: "Kosta Derpanis"
     affiliation: "Ryerson University"
     webpage: "http://scs.ryerson.ca/~kosta/"
-    title:
-    abstract:
+    title: "Who killed the domain expert?"
+    abstract: "It has been said that deep learning has eliminated the need for the domain expert. While the advent of deep learning has resulted in a major paradigm shift in computer vision, the domain expert is alive and well. Domain expertise has been refocused to the design of architectures rather than filters. In this talk, I will share two projects conducted in my lab and with collaborators where domain knowledge plays a critical role. First, I will discuss our work on segmentation-aware convolutional networks (ConvNets). This new architecture integrates segmentation information within a ConvNet. It counteracts the tendency of ConvNets to mix information across semantically disparate regions and increases their spatial precision for per-pixel tasks. Second, I will discuss our work on synthesizing dynamic texture using a two-stream ConvNet architecture. In the analysis stage, each stream is dedicated to capturing a set of appearance and dynamics-related statistics of a target texture, respectively. The synthesis process generates a novel texture by enforcing the feature statistics of the generated texture to match those of the target texture."
   - name: "Neil Bruce"
     affiliation: "Ryerson University"
     webpage: "http://www.cs.umanitoba.ca/~bruce/"
